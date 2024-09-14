@@ -1,0 +1,18 @@
+Bivariate Analysis in Exploratory Data Analysis (EDA)
+Bivariate analysis examines the relationship between two variables.
+It helps identify patterns, correlations, or differences between the two variables, often involving a dependent and an independent variable.
+
+Types of Bivariate Analysis:
+Numerical-Numerical (Correlation):
+
+Scatter plots and correlation coefficients (e.g., Pearson, Spearman) are used to study the linear or nonlinear relationships between two numerical variables.
+Example: Height vs. Weight.
+Numerical-Categorical:
+
+Box plots, bar charts, or t-tests/ANOVA help understand the distribution of numerical data across different categories.
+Example: Income vs. Gender.
+Categorical-Categorical:
+
+Cross-tabulation, chi-square tests, and bar charts are used to explore the relationship between two categorical variables.
+Example: Education Level vs. Employment Status.
+Bivariate analysis is a crucial step in data exploration, helping identify associations or dependencies between variables.
